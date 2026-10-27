@@ -1,6 +1,14 @@
 # PRISM — Multi-Agent AI Warehouse Intelligence Platform
 **Facility Node:** Kharghar, Navi Mumbai, Maharashtra, India
 
+[![CI Status](https://github.com/ayush-parab-23/PRISM-warehouse-intelligence/actions/workflows/ci.yml/badge.svg)](https://github.com/ayush-parab-23/PRISM-warehouse-intelligence/actions)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue?logo=typescript)
+![React](https://img.shields.io/badge/React-19-61dafb?logo=react)
+![Vite](https://img.shields.io/badge/Vite-8.x-646CFF?logo=vite)
+![Express](https://img.shields.io/badge/Express-5.x-black?logo=express)
+![SQLite](https://img.shields.io/badge/SQLite-WAL-003B57?logo=sqlite)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 PRISM is an industrial-enterprise warehouse intelligence operations platform designed for a single electronics distribution hub in Kharghar, Maharashtra, India. The warehouse manages hardware across exactly four contracted customer enterprises:
 
 1. **Apex Electronics India Pvt Ltd** — Enterprise Laptops, Desktops & Workstation Computing (Tier 1 Platinum SLA)
