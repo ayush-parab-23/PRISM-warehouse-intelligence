@@ -19,6 +19,7 @@ PRISM is an industrial-enterprise warehouse intelligence operations platform des
 > 📖 **Quick Guides for Team Members:**
 > - 🚀 **[HOW_TO_RUN.md](./HOW_TO_RUN.md)** — Step-by-step instructions to start the backend, frontend, run tests, and troubleshoot.
 > - 📁 **[docs/PROJECT_STRUCTURE.md](./docs/PROJECT_STRUCTURE.md)** — Guide to the folder hierarchy and how to edit/add AI agent roles.
+> - 🤝 **[CONTRIBUTING.md](./CONTRIBUTING.md)** — Git branching model, PR checklist, and code conventions for teammates.
 
 ---
 
